@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to the Science Foundation Models list! We welcome contributions from the community.
+Thank you for your interest in contributing to the Science Foundation Models list. We welcome contributions from the community. Please be respectful and constructive — we are all here to build a useful resource for the scientific community.
 
 ## How to Add a New Model
 
@@ -55,6 +55,3 @@ Before submitting, please verify:
 
 If you believe a model is in the wrong subsection, open an issue or PR explaining why. Models with interdisciplinary relevance may appear in multiple sections.
 
-## Code of Conduct
-
-Be respectful and constructive. We are all here to build a useful resource for the scientific community.
