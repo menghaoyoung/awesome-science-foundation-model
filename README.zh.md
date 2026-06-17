@@ -317,6 +317,7 @@
 | Geneformer | Transfer learning enables predictions in network biology | Christina V. Theodoris | 2023 | 10.1038/s41586-023-06139-9 | Nature | 在约3,000万单细胞转录组上预训练的Transformer模型，用于基因网络生物学迁移学习。 |
 | scFoundation | Large-scale foundation model on single-cell transcriptomics | Minsheng Hao | 2024 | 10.1038/s41592-024-02305-7 | Nature Methods | 1亿参数单细胞转录组基础模型（xTrimoGene），在5,000万+人类细胞上训练。 |
 | UCE | Universal Cell Embeddings: A Foundation Model for Cell Biology | Yanay Rosen | 2023 | 10.1101/2023.11.28.568918 | bioRxiv | 通用细胞嵌入模型，创建跨物种和组织的统一表示空间。 |
+| SCimilarity | A cell atlas foundation model for scalable search of similar human cells | Graham Heimberg | 2025 | 10.1038/s41586-024-08411-y | Nature | 深度度量学习单细胞基础模型，在来自412项scRNA-seq研究的2,340万细胞图谱上支持快速相似细胞状态检索和细胞类型注释。 |
 | GeneCompass | GeneCompass: deciphering universal gene regulatory mechanisms with a knowledge-informed cross-species foundation model | Xiaodong Yang | 2024 | 10.1038/s41422-024-01034-y | Cell Research | 知识增强的跨物种基础模型，在1亿+人和小鼠细胞上训练，用于解读基因调控机制。 |
 | CellPLM | CellPLM: Pre-training of Cell Language Model Beyond Single Cells | Hongzhi Wen | 2024 | OpenReview:BKXvPDekud | ICLR 2024 | 超越单细胞的细胞语言模型预训练，整合基因-基因和细胞-细胞相互作用 |
 | tGPT | Generative pretraining from large-scale transcriptomes for single-cell deciphering | Hongru Shen | 2023 | 10.1016/j.isci.2023.106536 | iScience | 在2,230万单细胞转录组上的生成式预训练模型，用于细胞解读和临床转化。 |
